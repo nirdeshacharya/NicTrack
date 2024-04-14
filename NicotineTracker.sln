@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicTracker", "NicTracker\NicTracker.csproj", "{5BA563B9-4237-4F71-810D-A9A32AC21394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicTrackerService", "NicTrackerService\NicTrackerService.csproj", "{BF206106-11FD-4B41-B4CF-839613E925CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicTrackerData", "NicTrackerData\NicTrackerData.csproj", "{3843EFD9-44D4-4E35-9523-EF6475C15948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA563B9-4237-4F71-810D-A9A32AC21394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA563B9-4237-4F71-810D-A9A32AC21394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA563B9-4237-4F71-810D-A9A32AC21394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA563B9-4237-4F71-810D-A9A32AC21394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF206106-11FD-4B41-B4CF-839613E925CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF206106-11FD-4B41-B4CF-839613E925CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF206106-11FD-4B41-B4CF-839613E925CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF206106-11FD-4B41-B4CF-839613E925CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3843EFD9-44D4-4E35-9523-EF6475C15948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3843EFD9-44D4-4E35-9523-EF6475C15948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3843EFD9-44D4-4E35-9523-EF6475C15948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3843EFD9-44D4-4E35-9523-EF6475C15948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

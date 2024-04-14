@@ -1,0 +1,15 @@
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/bin/Debug/net7.0/NicTrackerData.deps.json
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/bin/Debug/net7.0/NicTrackerData.runtimeconfig.json
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/bin/Debug/net7.0/NicTrackerData.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/bin/Debug/net7.0/NicTrackerData.pdb
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.csproj.AssemblyReference.cache
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.AssemblyInfoInputs.cache
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.AssemblyInfo.cs
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.csproj.CoreCompileInputs.cache
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/refint/NicTrackerData.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.pdb
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.genruntimeconfig.cache
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/ref/NicTrackerData.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/Debug/net7.0/NicTrackerData.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyFxufIoIgpOxBi6I7fE37o9ScM0fdO26IHUzuac4ZVZrvNZvVVrLzpSQ8/YKaabc3hmgxiSHigO1cPWlA/4BA==",
+  "success": true,
+  "projectFilePath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerService/NicTrackerService.csproj",
+  "expectedPackageFiles": [
+    "/Users/nirdeshacharya/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/nirdeshacharya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
