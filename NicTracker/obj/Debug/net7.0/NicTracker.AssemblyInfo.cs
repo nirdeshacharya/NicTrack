@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NicTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd2c334fca26a1e241b7b79c0a45e5bc2c6e2fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672777f8f3b50941419d0abd3c9a93a52e1a0ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NicTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NicTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

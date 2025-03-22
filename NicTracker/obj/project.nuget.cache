@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9VWu2G9GljT9fsLDIQWA5O/Wpj8WcvagQC9zwppIq7cHku/3efz3lY18tNVIWRutzPVg1vvRjsXTVoGyvxIfA==",
+  "dgSpecHash": "BMbcEj+kWq4=",
   "success": true,
-  "projectFilePath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/NicTracker.csproj",
+  "projectFilePath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/NicTracker.csproj",
   "expectedPackageFiles": [
     "/Users/nirdeshacharya/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/nirdeshacharya/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
@@ -71,9 +71,9 @@
     "/Users/nirdeshacharya/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/Users/nirdeshacharya/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/nirdeshacharya/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
-    "/Users/nirdeshacharya/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/nirdeshacharya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/nirdeshacharya/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+    "/Users/nirdeshacharya/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/nirdeshacharya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/nirdeshacharya/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

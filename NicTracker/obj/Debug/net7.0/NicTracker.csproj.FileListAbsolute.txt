@@ -110,3 +110,6 @@
 /Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/obj/Debug/net7.0/NicTracker.genruntimeconfig.cache
 /Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/obj/Debug/net7.0/ref/NicTracker.dll
 /Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/obj/Debug/net7.0/NicTracker.sourcelink.json
+/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/obj/Debug/net7.0/NicTracker.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/obj/Debug/net7.0/refint/NicTracker.dll
+/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/obj/Debug/net7.0/NicTracker.pdb

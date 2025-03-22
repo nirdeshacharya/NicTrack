@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/NicTracker.csproj": {}
+    "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/NicTracker.csproj": {}
   },
   "projects": {
-    "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/NicTracker.csproj": {
+    "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/NicTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/NicTracker.csproj",
+        "projectUniqueName": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/NicTracker.csproj",
         "projectName": "NicTracker",
-        "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/NicTracker.csproj",
+        "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/NicTracker.csproj",
         "packagesPath": "/Users/nirdeshacharya/.nuget/packages/",
-        "outputPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTracker/obj/",
+        "outputPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTracker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nirdeshacharya/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/NicTrackerData.csproj": {
-                "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/NicTrackerData.csproj"
+              "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj": {
+                "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj"
+              },
+              "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/NicTrackerService.csproj": {
+                "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/NicTrackerService.csproj"
               }
             }
           }
@@ -36,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -85,15 +94,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -104,18 +113,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/NicTrackerData.csproj": {
+    "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/NicTrackerData.csproj",
+        "projectUniqueName": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj",
         "projectName": "NicTrackerData",
-        "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/NicTrackerData.csproj",
+        "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj",
         "packagesPath": "/Users/nirdeshacharya/.nuget/packages/",
-        "outputPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack/NicTrackerData/obj/",
+        "outputPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nirdeshacharya/.nuget/NuGet/NuGet.Config"
@@ -136,7 +145,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -177,11 +192,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -189,7 +204,80 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/NicTrackerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/NicTrackerService.csproj",
+        "projectName": "NicTrackerService",
+        "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/NicTrackerService.csproj",
+        "packagesPath": "/Users/nirdeshacharya/.nuget/packages/",
+        "outputPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nirdeshacharya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj": {
+                "projectPath": "/Users/nirdeshacharya/Projects/DotNet/NicTrack1/NicTrack/NicTrackerData/NicTrackerData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
